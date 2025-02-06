@@ -1,3 +1,4 @@
+#задание 3 в 10 лабе
 import random
 
 def generate_table(n, m):
